@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hey there, I'm Muhammed Zahran T A!
 
-<!--
-**zahran445/zahran445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year Computer Science and Business Systems student with a deep interest in **Artificial Intelligence** and **Machine Learning**. I love building real-world solutions that combine creativity, logic, and impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ Tech Stack
+
+- **Languages**: Python, C++, C#, JavaScript
+- **Frameworks**: Flask, ASP.NET MVC
+- **Databases**: SQL Server, SQLite
+- **Tools**: Git, Visual Studio, Jupyter Notebook, Bootstrap
+
+---
+
+### 📊 GitHub Stats
+
+![Zahran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahran445&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: mu.zahranta@gmail.com *(replace if different)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammedzahranta) *(replace if different)*
+
+> *Always curious. Always building. Always learning.*
+
