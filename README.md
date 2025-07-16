@@ -22,8 +22,8 @@ I’m a final-year Computer Science and Business Systems student with a deep int
 
 ### 📫 Connect With Me
 
-- 📧 Email: mu.zahranta@gmail.com *(replace if different)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammedzahranta) *(replace if different)*
+- 📧 Email: mu.zahranta@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammedzahranta) 
 
 > *Always curious. Always building. Always learning.*
 
